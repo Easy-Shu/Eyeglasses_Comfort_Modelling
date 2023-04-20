@@ -25,19 +25,17 @@ Aattractiveness distributions do not accord with normal distribution in the viol
 
 <img src="https://github.com/Easy-Shu/facial_shape_clustering/blob/main/Figures/Figure13_Beauty_analysis.png" width=100% alt="beasuty"></img>
 
-## Acknowledgement
-* Previous works on 3D dense face alignment or reconstruction: [PRNet](https://github.com/YadiraF/PRNet), [3DDFA_V2](https://github.com/cleardusk/3DDFA_V2), [facescape](https://github.com/zhuhao-nju/facescape),  [face3d](https://github.com/YadiraF/face3d).
-* Circular Dendrogram realization: [circlize: circular visualization in R](https://github.com/jokergoo/circlize). 
+%## Acknowledgement
+%* Previous works on 3D dense face alignment or reconstruction: [PRNet](https://github.com/YadiraF/PRNet), [3DDFA_V2](https://github.com/cleardusk/3DDFA_V2), %%%[facescape](https://github.com/zhuhao-nju/facescape),  [face3d](https://github.com/YadiraF/face3d).
+%* Circular Dendrogram realization: [circlize: circular visualization in R](https://github.com/jokergoo/circlize). 
 
 ## Citation
 If you use this code for your research, please cite our paper.
 ```
-@article{Jie2022clustering,
-  title={3{D}-guided facial shape clustering and analysis},
-  author={Jie Zhang and Kangneng Zhou and Yan Luximon and Ping Li and Hassan Iftikhar},
-  journal={Multimedia Tools and Applications},
-  year={2022},
-  doi={https://doi.org/10.1007/s11042-022-12190-x}
+@article{Jie2023Eyeglasses,
+  title={A {3D} Anthropometry-Based Quantified Comfort Model for Children's Eyeglasses Design},
+  author={Jie Zhang and Junjian Chen and Fang Fu and Yan Luximon},
+  year={2023}
 }
 ```
 ## Contacts
