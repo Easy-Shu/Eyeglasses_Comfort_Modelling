@@ -6,7 +6,7 @@ For eyeglasses frames, there are two components contacting the facial surface: (
 <img src="https://github.com/Easy-Shu/Face_for_Glasses/blob/main/Illustration.png" width=100% alt="beasuty"></img>
 
 ## Citation
-If you use this code for your research, please cite our paper.
+If you find our work useful to your research, please consider citing:
 ```
 @article{Jie2023Eyeglasses,
   title={A {3D} Anthropometry-Based Quantified Comfort Model for Children's Eyeglasses Design},
