@@ -15,7 +15,7 @@ If you find our work useful to your research, please consider citing:
   author={Jie Zhang and Junjian Chen and Fang Fu and Yan Luximon},
   journal={Applied Ergonomics},
   year={2023},
-  pages={1--34},
+  pages={1--14},
 }
 ```
 ## Contacts
