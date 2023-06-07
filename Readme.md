@@ -16,6 +16,7 @@ If you find our work useful to your research, please consider citing:
   journal={Applied Ergonomics},
   year={2023},
   pages={1--14},
+  doi= {10.1016/j.apergo.2023.104054},
 }
 ```
 ## Contacts
