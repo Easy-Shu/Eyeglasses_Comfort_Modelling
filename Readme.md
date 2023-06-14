@@ -1,4 +1,4 @@
-# Eyeglasses Comfort Modelling
+# [Eyeglasses Comfort Modelling](https://doi.org/10.1016/j.apergo.2023.104054)
 Modeling the quantified relationships between anthropometric/product parameters and human perceptions provides research-driven guidelines for mass customization and personalization of ergonomic products. However, they are still underexplored. This study examined children's comfort perceptions for eyeglasses with two variables (i.e., nose pads width and temple clamping force), and established quantified linkage models between subjective human perceptions and objective 3D anthropometric/product parameters. To the best of our knowledge, this is the first work to quantify these relationships for ergonomic eyeglasses design.
 
 <img src="https://github.com/Easy-Shu/Eyeglasses_Comfort_Modelling/blob/main/Overview_Model.jpg" width=100% alt="beasuty"></img>
