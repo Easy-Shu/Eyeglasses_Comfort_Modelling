@@ -9,6 +9,9 @@ For eyeglasses frames, there are two components contacting the facial surface: (
 
 <img src="https://github.com/Easy-Shu/Face_for_Glasses/blob/main/Illustration.png" width=100% alt="beasuty"></img>
 
+<img src="https://github.com/Easy-Shu/Eyeglasses_Comfort_Modelling/blob/main/Figure11_Trend_Surface_3D.png" width=100% alt="beasuty"></img>
+
+
 ## Citation
 If you find our work useful to your research, please consider citing:
 ```
