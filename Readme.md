@@ -3,7 +3,7 @@ Modeling the quantified relationships between anthropometric/product parameters 
 
 <img src="https://github.com/Easy-Shu/Eyeglasses_Comfort_Modelling/blob/main/Overview_Model.jpg" width=100% alt="beasuty"></img>
 
-Trend surfaces of the perceived overall comfort 𝑃𝑜𝑐 of prototypes were calculated under different conditions using OLS regression, where the two independent variables were nose pads width scale factor and temple clamping force.
+Trend surfaces of the perceived overall comfort of prototypes were calculated under different conditions using OLS regression, where the two independent variables were nose pads width scale factor and temple clamping force.
 <img src="https://github.com/Easy-Shu/Eyeglasses_Comfort_Modelling/blob/main/Figure11_Trend_Surface_3D.png" width=100% alt="beasuty"></img>
 
 
