@@ -26,5 +26,15 @@ If you find our work useful to your research, please consider citing:
   doi= {10.1016/j.apergo.2023.104054},
 }
 ```
+
+```
+@article{Jie2023Eyeglasses,
+  title={Size Children's Eyeglasses: An Assembly-Guided and Comfort-Oriented Optimization Approach based on {3D} Statistical Ophthalmic Modelling},
+  author={Jie Zhang and Yan Luximon and Luwei Chen},
+  journal={Advanced Engineering Informatics},
+  year={2023},
+  pages={1--34}
+}
+```
 ## Contacts
 Please contact  jpeter.zhang@connect.polyu.hk  or open an issue for any questions or suggestions.
