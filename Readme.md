@@ -28,7 +28,7 @@ If you find our work useful to your research, please consider citing:
 ```
 
 ```
-@article{Jie2023Eyeglasses,
+@article{Jie2023Size,
   title={Size Children's Eyeglasses: An Assembly-Guided and Comfort-Oriented Optimization Approach based on {3D} Statistical Ophthalmic Modelling},
   author={Jie Zhang and Yan Luximon and Luwei Chen},
   journal={Advanced Engineering Informatics},
