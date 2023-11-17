@@ -33,7 +33,8 @@ If you find our work useful to your research, please consider citing:
   author={Jie Zhang and Yan Luximon and Luwei Chen},
   journal={Advanced Engineering Informatics},
   year={2023},
-  pages={1--34}
+  pages={1--13}，
+  doi={10.1016/j.aei.2023.102266},
 }
 ```
 ## Contacts
